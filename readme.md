@@ -49,3 +49,4 @@ func (t *task) do() {
 
 ...
 ```
+![](ave-go.png?raw=true "For the glory of go of course >:)")
