@@ -12,7 +12,7 @@ var (
 )
 
 func init() {
-    services = goesblock.Service()
+    services = goesblock.Get()
 }
 
 func main() {
